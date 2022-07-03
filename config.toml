@@ -1,2 +1,3 @@
+baseURL = "https://inos-scientific.netlify.app/"
 languageCode = "en-us"
 title = "My New Netlify Victor Hugo Site"
